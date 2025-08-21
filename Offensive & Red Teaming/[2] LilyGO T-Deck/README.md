@@ -6,3 +6,4 @@
 ### Have a look...
 
 ![LilyGO T-Deck](https://github.com/anthonymcwhite/Devious-Designs-HHL/blob/main/images/T-Deck_Front.png)
+![T-Deck PinMap](https://github.com/anthonymcwhite/Devious-Designs-HHL/blob/main/images/T-Deck_Plus_PinMap.png)
