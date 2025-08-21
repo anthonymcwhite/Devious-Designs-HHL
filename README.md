@@ -6,7 +6,7 @@
 ## ᕼᗩᖇᗪᗯᗩᖇE ᕼᗩᑕKIᑎG ᒪᗩᗷOᖇᗩTOᖇY
 ### Formerly known as "Passionate-Prototypes"
 <p>
-  <tt> **DISCLAIMER** </tt></br>
+  <tt> * **DISCLAIMER** * </tt></br>
   <tt>All data, information, content, etc. contained within this repository was produced strictly for educational use, awareness, testing, research, and ethically leaning endeavors only.</tt>
 </p></br>
 
@@ -24,7 +24,20 @@
 <p>
   Various hardware used for testing & prototypes by brand/manufacturer
 </p>
-[1] LilyGo T-Embed </br>
+[1] LilyGo </br>
 [2] Raspberry Pi </br>
 [3] Adafruit </br>
 [4] Arduino </br>
+[5] Meshtastic </br>
+[6] Hak5 </br>
+
+### Tools For Testing
+<p>
+  Though it doesn't take much, there are certain tools that will allow a researcher to dive deeper, better understanding the tools, technique, and protocols that are       being interacted with. Listed below are the one's I have found to be the most important and efficient.
+</p>
+[1] Nano VNA probe
+[2] Software Defined Radio (SDR)
+[3] Multimeter's
+[4] Soldering Equipment
+[5] Antenna's 
+[6] Integrated Development Environments (IDE)
