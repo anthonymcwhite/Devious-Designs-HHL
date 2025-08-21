@@ -6,7 +6,7 @@
 ## ᕼᗩᖇᗪᗯᗩᖇE ᕼᗩᑕKIᑎG ᒪᗩᗷOᖇᗩTOᖇY
 ### Formerly known as "Passionate-Prototypes"
 <p>
-  <tt>**DISCLAIMER**</tt></br>
+  <tt> **DISCLAIMER** </tt></br>
   <tt>All data, information, content, etc. contained within this repository was produced strictly for educational use, awareness, testing, research, and ethically leaning endeavors only.</tt>
 </p></br>
 
