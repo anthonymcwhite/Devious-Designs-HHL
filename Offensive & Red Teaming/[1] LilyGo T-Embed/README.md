@@ -12,5 +12,6 @@
 ---
 ### Have a Look...
 
+![T-Embed PinMap](https://github.com/anthonymcwhite/Devious-Designs-HHL/blob/main/images/lilygo-tembed-pinout.png)
 
 
