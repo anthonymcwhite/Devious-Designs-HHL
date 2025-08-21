@@ -8,11 +8,12 @@
 <p>
   <tt>DISCLAIMER</tt></br>
   <tt>All data, information, content, etc. contained within this repository was produced strictly for educational use, awareness, testing, research, and ethically leaning endeavors only.</tt>
-  </br>
-  <tt>###################################################################</tt></br> 
-  <tt>###Remember... "With great knowledge comes great responsibility"###</tt></br>
-  <tt>###################################################################</tt></br>
-</p>
+</p></br>
+
+  <tt>#####################################################################</tt></br> 
+  <tt>### Remember... "With great knowledge comes great responsibility" ###</tt></br>
+  <tt>#####################################################################</tt></br>
+
 
 ## ᒪᗩᗷ ᗰᗩᑭ
 ### Offensive/Red Teaming Devices
