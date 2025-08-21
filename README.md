@@ -35,7 +35,7 @@
 <p>
   Though it doesn't take much, there are certain tools that will allow a researcher to dive deeper, better understanding the tools, technique, and protocols that are       being interacted with. Listed below are the one's I have found to be the most important and efficient.
 </p>
-[1] Nano VNA probe </br>
+[1] Nano VNA Probe </br>
 [2] Software Defined Radio (SDR) </br>
 [3] Multimeter's </br>
 [4] Soldering Equipment </br>
