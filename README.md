@@ -4,6 +4,7 @@
 ---
 
 ## ᕼᗩᖇᗪᗯᗩᖇE ᕼᗩᑕKIᑎG ᒪᗩᗷOᖇᗩTOᖇY
+### Formerly known as "Passionate-Prototypes"
 <p>
   <tt>DISCLAIMER</tt></p></br>
   <tt>All data, information, content, etc. contained within this repository was produced strictly for educational use, awareness, testing, research, and ethically leaning endeavors only.</tt></br>
@@ -14,9 +15,12 @@
 ### Offensive/Red Teaming Devices
 <p>
   Hardware/Devices tested that excel in the areas of Wifi Penetration, BLE manipulation, RF & RFID Recon-Recording-Replays(SubGHz), Infrared Chaos, Encrypted Communication, Software Defined Radio, USB attacks (rubber duckies), and much more.
-</p></br>
+</p>
 
 ### Hardware </br>
+<p>
+  Various hardware used for testing & prototypes by brand/manufacturer
+</p>
 [1] LilyGo T-Embed </br>
 [2] Raspberry Pi </br>
 [3] Adafruit </br>
