@@ -17,7 +17,7 @@
 </p></br>
 
 ### Hardware </br>
-[1] LilyGo T-Embed
-[2] Raspberry Pi
-[3] Adafruit 
-[4] Arduino
+[1] LilyGo T-Embed </br>
+[2] Raspberry Pi </br>
+[3] Adafruit </br>
+[4] Arduino </br>
