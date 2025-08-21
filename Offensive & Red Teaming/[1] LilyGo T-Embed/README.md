@@ -14,4 +14,6 @@
 
 ![T-Embed PinMap](https://github.com/anthonymcwhite/Devious-Designs-HHL/blob/main/images/lilygo-tembed-pinout.png)
 
+![T-Embed NRF24 Modification](https://github.com/anthonymcwhite/Devious-Designs-HHL/blob/main/images/t_embed-nrf24-modification.png)
+
 
