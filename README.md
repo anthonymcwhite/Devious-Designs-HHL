@@ -30,6 +30,7 @@
 [4] Arduino </br>
 [5] Meshtastic </br>
 [6] Hak5 </br>
+[7] Flipper Zero </br>
 
 ### Tools For Testing
 <p>
