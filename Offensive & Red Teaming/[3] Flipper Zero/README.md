@@ -17,7 +17,7 @@
 <tt>The flipper Zero has an extensive list of potential add-ons and customizable accessories. Below you will find some of my favorite and most useful hardware accessories for the Flipper Zero with the appropriate link for quick access.</tt></br>
 
 [1] ESP32-S3 WiFi Development Board</br>
-  --->[Purchase the ESP32 Dev Board](https://www.amazon.com/dp/B0F13M4ZHD?ref=fed_asin_title&th=1) <--- </br>
+  --->[Buy ESP32 Dev Board](https://www.amazon.com/dp/B0F13M4ZHD?ref=fed_asin_title&th=1) <--- </br>
   --->[FZ Marauder Flasher](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard#marauder-install-information) <--- </br>
 [2] NRF24 Development Module </br>
 [3] CC1101 Development Module </br>
