@@ -1,5 +1,4 @@
-# The Flipper Zero
-</br>
+# The Flipper Zero </br>
 ---
 
 ## First Steps
