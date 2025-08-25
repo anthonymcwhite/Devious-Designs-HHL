@@ -16,3 +16,14 @@
 <tt> - Interception: Capturing signals not intended for the interceptor.</tt></br> 
 <tt> - Analysis: Examining the collected signals to identify patterns and extract meaning.</tt></br> 
 <tt> - Integration: Combining findings with other intelligence sources, sometimes including cryptanalysis to break codes.</tt></br>
+
+---
+
+## Specialized Hardware, Software, Technique & Tools for SigInt
+
+### Operating Systems
+<tt>Dragon OS</tt></br>
+<p>
+<tt>Dragon OS is a Debian-based Linux distribution pre-loaded with software-defined radio (SDR) tools and drivers, simplifying the setup for enthusiasts by providing a ready-to-use environment for exploring radio frequencies, tracking satellites, decoding digital modes, and more. It supports various SDR hardware like the RTL-SDR, HackRF One, and LimeSDR, allowing users to experiment with applications such as WSJT-X for weak-signal communication, GPredict for satellite tracking, and SDR Angel for decoding aircraft ADS-B signals. Dragon OS offers ease of use by functioning as a live bootable OS for testing or can be installed alongside an existing operating system.</tt>
+</p>
+
