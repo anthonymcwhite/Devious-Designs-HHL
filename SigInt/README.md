@@ -36,7 +36,7 @@ Dragon OS is a Debian-based Linux distribution pre-loaded with software-defined 
 </tt></p>
 </br>
 
-<tt> [3] Kali </tt></br>
+<tt> [3] Kali Linux </tt></br>
 [Download Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
 <p><tt>
  Debian based, universal Linux operating system that can be used for many aspects of Signals Intelligence. NOT for beginners or the faint of heart. Pack a lunch.
