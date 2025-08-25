@@ -1,1 +1,1 @@
-### Flipper Zero GPIO
+### Flipper Zero GPIO (General Purpose Input/Output)
