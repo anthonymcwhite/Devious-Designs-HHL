@@ -22,8 +22,14 @@
 ## Specialized Hardware, Software, Technique & Tools for SigInt
 
 ### Operating Systems
-<tt>Dragon OS</tt></br>
-<p>
-<tt>Dragon OS is a Debian-based Linux distribution pre-loaded with software-defined radio (SDR) tools and drivers, simplifying the setup for enthusiasts by providing a ready-to-use environment for exploring radio frequencies, tracking satellites, decoding digital modes, and more. It supports various SDR hardware like the RTL-SDR, HackRF One, and LimeSDR, allowing users to experiment with applications such as WSJT-X for weak-signal communication, GPredict for satellite tracking, and SDR Angel for decoding aircraft ADS-B signals. Dragon OS offers ease of use by functioning as a live bootable OS for testing or can be installed alongside an existing operating system.</tt>
-</p>
+<tt> [1] Dragon OS </tt></br>
+<p><tt>
+Dragon OS is a Debian-based Linux distribution pre-loaded with software-defined radio (SDR) tools and drivers, simplifying the setup for enthusiasts by providing a ready-to-use environment for exploring radio frequencies, tracking satellites, decoding digital modes, and more. It supports various SDR hardware like the RTL-SDR, HackRF One, and LimeSDR, allowing users to experiment with applications such as WSJT-X for weak-signal communication, GPredict for satellite tracking, and SDR Angel for decoding aircraft ADS-B signals. Dragon OS offers ease of use by functioning as a live bootable OS for testing or can be installed alongside an existing operating system.
+</tt></p>
+</br>
+<tt> [2] SIGINT OS </tt></br>
+<p><tt>
+ Linux distribution explicitly designed for signals intelligence (SIGINT). An operating system (OS) handles SIGINT, which is a software signal, asynchronously, meaning the OS sends it to a process to interrupt its normal flow and perform a specific action.
+</tt></p>
+</br>
 
