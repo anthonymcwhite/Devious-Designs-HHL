@@ -5,7 +5,7 @@ Here you can find content related to the nodes that I have personally operated, 
 
 ### Node Hardware
 
-- Heltec V3
+- [Heltec V3](https://github.com/anthonymcwhite/Devious-Designs-HHL/tree/main/Hardware-General/Meshtastic/Nodes/HeltecV3)
 - RAK Wireless
 - LilyGo T-Deck Plus
 
