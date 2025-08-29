@@ -8,4 +8,4 @@ An excellent place to start for those who are new or want to enter into the HAM 
 - Dual and Tri Band Models
 - GPS Features
 - Respectable Range
-- FCC *un*-approved
+- FCC **un**-approved
