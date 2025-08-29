@@ -1,5 +1,6 @@
 # ALFA Network Inc. </br>
-### ALFA Network is a manufacturer of consumer and small-business wireless networking equipment, founded in Taiwan in 2002. </br>
+<tt>ALFA Network is a manufacturer of consumer and small-business wireless networking equipment, founded in Taiwan in 2002. 
+The company is widely known for its Wi-Fi adapters and antennas, which are popular with hobbyists and users who need to extend their Wi-Fi range. </br>
 
 <p>
 
