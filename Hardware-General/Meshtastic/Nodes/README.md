@@ -7,7 +7,7 @@ Here you can find content related to the nodes that I have personally operated, 
 
 - [Heltec V3](https://github.com/anthonymcwhite/Devious-Designs-HHL/tree/main/Hardware-General/Meshtastic/Nodes/HeltecV3)
 - [RAK Wireless](https://github.com/anthonymcwhite/Devious-Designs-HHL/tree/main/Hardware-General/Meshtastic/Nodes/RAK_Wireless)
-- LilyGo T-Deck Plus
+- [LilyGo T-Deck Plus](https://github.com/anthonymcwhite/Devious-Designs-HHL/tree/main/Hardware-General/Meshtastic/Nodes/LilyGo_T-Deck_Plus)
 
 ### Antennas
 
