@@ -11,3 +11,4 @@ Here you can find content related to the nodes that I have personally operated, 
 
 ### Antennas
 
+- [Antenna Options for Meshtastic](https://github.com/anthonymcwhite/Devious-Designs-HHL/tree/main/Hardware-General/Meshtastic/Antenna_Options)
