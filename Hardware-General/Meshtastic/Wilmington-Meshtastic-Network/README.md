@@ -34,9 +34,7 @@ We focus on expanding coverage, encouraging community participation, and support
 
 ## 🛠️ Getting Started
 1. Clone this repo
-<tt>
    ```bash
    git clone https://github.com/anthonymcwhite/Wilmington-Meshtastic-Network.git
    cd Wilmington-Meshtastic-Network
- </tt></br>
   
