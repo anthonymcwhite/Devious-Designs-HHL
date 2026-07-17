@@ -2,7 +2,7 @@
 
 ![Devious Designs Applied Technology Lab](assets/identity/lab-header.svg)
 
-> Independent research in hardware, embedded systems, wireless technology, radio, security, and field computing.
+> Independent research in hardware, embedded systems, wireless technology, radio, security, and reliable field computing.
 
 This repository is my working laboratory: part field notebook, part equipment reference, and part record of what happened when theory met the bench. It documents devices I own, modifications I have attempted, systems I have maintained, and the lessons—successful or otherwise—that came out of the work.
 
