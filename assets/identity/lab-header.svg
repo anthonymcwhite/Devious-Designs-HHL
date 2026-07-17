@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Devious Designs Applied Technology Lab</title>
+  <desc id="desc">A restrained graphite laboratory identity with amber and phosphor signal traces.</desc>
+  <rect width="1200" height="320" rx="14" fill="#111411"/>
+  <path d="M0 252H1200" stroke="#30362f" stroke-width="1"/>
+  <path d="M54 68H168L190 90V196L168 218H54L32 196V90Z" fill="none" stroke="#d49a35" stroke-width="2"/>
+  <path d="M72 104H126L148 126V180" fill="none" stroke="#9bcf53" stroke-width="4"/>
+  <circle cx="72" cy="104" r="7" fill="#d49a35"/>
+  <circle cx="148" cy="180" r="7" fill="#9bcf53"/>
+  <path d="M72 180H106V146H148" fill="none" stroke="#e6e0d4" stroke-width="3"/>
+  <circle cx="72" cy="180" r="5" fill="#e6e0d4"/>
+  <text x="238" y="105" fill="#d49a35" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" letter-spacing="5">DEVIOUS DESIGNS</text>
+  <text x="238" y="159" fill="#e6e0d4" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="600" letter-spacing="1">Applied Technology Lab</text>
+  <text x="240" y="202" fill="#8d978b" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">hardware · field systems · signals · security</text>
+  <path d="M240 252H660" stroke="#d49a35" stroke-width="2"/>
+  <path d="M660 252H742L760 234H842" fill="none" stroke="#9bcf53" stroke-width="2"/>
+  <circle cx="842" cy="234" r="4" fill="#9bcf53"/>
+  <text x="1086" y="283" fill="#596158" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">DD·ATL / 01</text>
+</svg>
+
